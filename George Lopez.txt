@@ -15,3 +15,5 @@ Jezzy
 Naz'Jar Sentinel
 
 Spirit Mender
+
+Commander
